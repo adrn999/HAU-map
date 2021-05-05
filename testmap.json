@@ -122,6 +122,11 @@
                  "value":3
                 }, 
                 {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.fonds-daku.de\/tabori-preis\/"
+                }, 
+                {
                  "name":"silent",
                  "type":"bool",
                  "value":true
@@ -131,9 +136,200 @@
          "width":32,
          "x":0,
          "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":13,
+         "name":"annotations",
+         "objects":[
+                {
+                 "height":40.296875,
+                 "id":12,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "color":"#0000ff",
+                     "fontfamily":"Arial Black",
+                     "pixelsize":11,
+                     "text":"youtube video is showing up when a user is going to the screen",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":213.09375,
+                 "x":323.203125,
+                 "y":755.8515625
+                }, 
+                {
+                 "height":0,
+                 "id":14,
+                 "name":"",
+                 "polygon":[
+                        {
+                         "x":0,
+                         "y":0
+                        }, 
+                        {
+                         "x":46,
+                         "y":4
+                        }, 
+                        {
+                         "x":255,
+                         "y":1
+                        }, 
+                        {
+                         "x":248,
+                         "y":32
+                        }, 
+                        {
+                         "x":145,
+                         "y":39
+                        }, 
+                        {
+                         "x":29,
+                         "y":32
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":277,
+                 "y":752
+                }, 
+                {
+                 "height":138.296875,
+                 "id":15,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "color":"#0000ff",
+                     "fontfamily":"Arial Black",
+                     "pixelsize":12,
+                     "text":"in the auditorium tabori preis webpage shows up and \"silent\" mode is on, so no one can interact while in here",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":141.59375,
+                 "x":121.203125,
+                 "y":487.3515625
+                }, 
+                {
+                 "height":0,
+                 "id":16,
+                 "name":"",
+                 "polygon":[
+                        {
+                         "x":36,
+                         "y":-51
+                        }, 
+                        {
+                         "x":-51.8942307692308,
+                         "y":-25.6153846153846
+                        }, 
+                        {
+                         "x":-214.798076923077,
+                         "y":-30.5128205128205
+                        }, 
+                        {
+                         "x":-215,
+                         "y":25.1282051282051
+                        }, 
+                        {
+                         "x":-209.235576923077,
+                         "y":74.4871794871794
+                        }, 
+                        {
+                         "x":-58.25,
+                         "y":71.7948717948718
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":330,
+                 "y":517.512820512821
+                }, 
+                {
+                 "height":101.296875,
+                 "id":17,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "color":"#0000ff",
+                     "fontfamily":"Arial Black",
+                     "pixelsize":12,
+                     "text":"youtube video is showing up when a user is going to the water tiles",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":115.59375,
+                 "x":839.203125,
+                 "y":648.3515625
+                }, 
+                {
+                 "height":0,
+                 "id":18,
+                 "name":"",
+                 "polygon":[
+                        {
+                         "x":0,
+                         "y":0
+                        }, 
+                        {
+                         "x":-2,
+                         "y":23
+                        }, 
+                        {
+                         "x":-40,
+                         "y":35
+                        }, 
+                        {
+                         "x":-42,
+                         "y":107
+                        }, 
+                        {
+                         "x":13,
+                         "y":113
+                        }, 
+                        {
+                         "x":74,
+                         "y":98
+                        }, 
+                        {
+                         "x":84,
+                         "y":61
+                        }, 
+                        {
+                         "x":74,
+                         "y":27
+                        }, 
+                        {
+                         "x":29,
+                         "y":20
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":874,
+                 "y":614
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
         }],
- "nextlayerid":13,
- "nextobjectid":12,
+ "nextlayerid":14,
+ "nextobjectid":19,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.6.0",
