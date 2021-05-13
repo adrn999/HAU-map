@@ -36,7 +36,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/buhne.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/adrn999.github.io\/HAU-map\/buhne.json"
                 }],
          "type":"tilelayer",
          "visible":true,
