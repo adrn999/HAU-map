@@ -24,7 +24,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/player.vimeo.com\/video\/548395514?autoplay=1&muted=1"
+                 "value":"https:\/\/www.youtube.com\/embed\/V5L9viTbIGU?autoplay=1&muted=1"
                 }],
          "type":"tilelayer",
          "visible":true,
